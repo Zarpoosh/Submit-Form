@@ -7,6 +7,10 @@ import { useState } from "react";
 import { createTheme, Grid, ThemeProvider } from "@mui/material";
 
 function App() {
+  const bgstyle={
+    position:"relative",
+    
+  }
   const [mode, setMode] = useState("light");
 
   const darkTheme = createTheme({
@@ -16,7 +20,7 @@ function App() {
   });
   return (
     <ThemeProvider theme={darkTheme}>
-      <Grid bgcolor={"background.default"} color={"text.primary"}>
+      <Grid style={bgstyle} bgcolor={"background.default"} color={"text.primary"}>
         <section id="bg">
           <ul id="shape">
             <li></li>

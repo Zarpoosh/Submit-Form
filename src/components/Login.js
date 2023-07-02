@@ -26,9 +26,11 @@ const Login = ({ mode, setMode }) => {
   };
   const formstyel = {
     padding: 20,
-    height: "60vh",
+    height: "auto",
     width: 300,
     margin: "0px auto",
+    zIndex: "1",
+    position: "relative",
   };
   const linkstyle = {
     color: "#1de9b6",

@@ -76,8 +76,10 @@ const SignUp = ({ mode, setMode }) => {
   const formStyle = {
     padding: "30px 20px",
     width: 300,
-    height: "70vh",
+    height: "auto",
     margin: "0px auto",
+    zIndex: "1",
+    position: "relative",
   };
   // paper styles
   const paperStyle = {
