@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Annotation 2023-07-16 113759](https://github.com/Zarpoosh/Submit-Form/assets/122268379/fb0091f6-f4e4-4130-8a5e-ebd9fdfb40ae)
+![Annotation 2023-07-16 113646](https://github.com/Zarpoosh/Submit-Form/assets/122268379/1a7541c1-9da7-445a-a468-90c33b16649d)
+
 
 ## Available Scripts
 
